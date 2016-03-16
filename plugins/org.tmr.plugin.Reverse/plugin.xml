@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
+        id="org.tmr.plugin.Reverse"
+        version="0.0.1">
+
+  <name>Reverse</name>
+
+  <engines>
+    <engine name="cordova" version=">=3.4.0"/>
+  </engines>
+
+  <asset src="www/reverse.js" target="js/reverse.js"/>
+
+  <js-module src="www/reverse.js" name="reverse">
+    <clobbers target="reverse" />
+  </js-module>
+
+  <platform name="android">
+
+    <config-file target="res/xml/config.xml" parent="/*">
+      <feature name="Reverse">
+        <param name="android-package" value="org.tmr.plugin.Reverse"/>
+      </feature>
+    </config-file>
+
+    <source-file src="src/android/Reverse.java" target-dir="src/org/tmr/plugin/"/>
+  </platform>
+
+</plugin>
