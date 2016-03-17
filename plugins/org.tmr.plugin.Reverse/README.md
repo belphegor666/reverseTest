@@ -1,22 +1,22 @@
-# Cordova Hello World Plugin
+# Cordova Reverse Plugin
 
-Simple plugin that returns your string prefixed with hello.
+Simple plugin that returns your string with the characters reversed.
 
-Greeting a user with "Hello, world" is something that could be done in JavaScript. This plugin provides a simple example demonstrating how Cordova plugins work.
+This plugin provides a simple example demonstrating how Cordova plugins work.
 
 ## Using
 Clone the plugin
 
-    $ git clone https://github.com/don/cordova-plugin-hello.git
+    $ git clone https://github.com/belphegor666/cordova-plugin-reverse.git
 
 Create a new Cordova Project
 
-    $ cordova create hello com.example.helloapp Hello
+    $ cordova create reverse com.example.helloapp ReverseTest
     
 Install the plugin
 
-    $ cd hello
-    $ cordova plugin add ../cordova-plugin-hello
+    $ cd reverse
+    $ cordova plugin add ../cordova-plugin-reverse
     
 
 Edit `www/js/index.js` and add the following code inside `onDeviceReady`
@@ -27,15 +27,14 @@ Edit `www/js/index.js` and add the following code inside `onDeviceReady`
     }
 
     var failure = function() {
-        alert("Error calling Hello Plugin");
+        alert("Error calling Reverse Plugin");
     }
 
-    hello.greet("World", success, failure);
+    cordova.exec(success, failure,"Reverse", "reverseString", ["Hello World!"]);
 ```
 
-Install iOS or Android platform
+Install Android platform
 
-    cordova platform add ios
     cordova platform add android
     
 Run the code

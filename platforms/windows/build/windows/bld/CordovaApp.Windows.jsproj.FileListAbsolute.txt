@@ -1,0 +1,17 @@
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\debug\anycpu\win8.1\resources.pri
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\debug\anycpu\win8.1\CordovaApp.Windows.build.appxrecipe
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\priconfig.xml
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\priconfig.xml.intermediate
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\layout.resfiles
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\layout.resfiles.intermediate
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\resources.resfiles
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\resources.resfiles.intermediate
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\pri.resfiles
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\pri.resfiles.intermediate
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\qualifiers.txt
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\qualifiers.txt.intermediate
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\MultipleQualifiersPerDimensionFound.txt
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\ProjectArchitectures.txt
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\package.map.txt
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\_pkginfo.txt

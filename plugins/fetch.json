@@ -9,9 +9,8 @@
     },
     "org.tmr.plugin.Reverse": {
         "source": {
-            "type": "git",
-            "url": "https://github.com/belphegor666/cordova-plugin-reverse.git",
-            "subdir": "."
+            "type": "local",
+            "path": "..\\cordova-plugin-reverse"
         },
         "is_top_level": true,
         "variables": {}

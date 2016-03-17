@@ -1,0 +1,1 @@
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\CordovaApp.Windows.jsproj;neutral

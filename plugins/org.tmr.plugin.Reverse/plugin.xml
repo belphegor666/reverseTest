@@ -25,5 +25,13 @@
 
     <source-file src="src/android/Reverse.java" target-dir="src/org/tmr/plugin/"/>
   </platform>
+  
+  <!-- windows -->
+  <platform name="windows">
+    <js-module src="src/windows/reverseProxy.js" name="ReverseProxy">
+        <merges target="" />
+    </js-module>
+  </platform>
+
 
 </plugin>
