@@ -1,5 +1,6 @@
 [Files]
 "C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml" "AppxManifest.xml"
+"C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\plugins\org.tmr.plugin.Reverse\ReverseRuntimeComponent.winmd" "ReverseRuntimeComponent.winmd"
 "C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\images\SplashScreen.scale-100.png" "images\SplashScreen.scale-100.png"
 "C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\images\Square150x150Logo.scale-100.png" "images\Square150x150Logo.scale-100.png"
 "C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\images\Square30x30Logo.scale-100.png" "images\Square30x30Logo.scale-100.png"

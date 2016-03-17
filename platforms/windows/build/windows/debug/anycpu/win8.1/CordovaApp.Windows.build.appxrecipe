@@ -18,6 +18,9 @@
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\plugins\org.tmr.plugin.Reverse\ReverseRuntimeComponent.winmd">
+      <PackagePath>ReverseRuntimeComponent.winmd</PackagePath>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\images\SplashScreen.scale-100.png">
       <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>

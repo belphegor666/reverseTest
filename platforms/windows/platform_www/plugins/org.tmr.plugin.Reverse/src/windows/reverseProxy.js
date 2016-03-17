@@ -1,6 +1,14 @@
 cordova.define("org.tmr.plugin.Reverse.ReverseProxy", function(require, exports, module) {
 cordova.commandProxy.add("Reverse",{
     reverseString:function(successCallback,errorCallback,strInput) {
+        var res = ReverseRuntimeComponent.ReversePluginRT.reverse(strInput);
+        if(res.indexOf("Error") == 0) {
+            errorCallback(res);
+        }
+        else {
+            successCallback("Native: "+res);
+        }
+        /* Pure WinJS native JavaScript version
         if(!strInput || !strInput.length) {
             errorCallback("Error, something was wrong with the input string. =>" + strInput);
         }
@@ -12,6 +20,7 @@ cordova.commandProxy.add("Reverse",{
             }
             successCallback(outStrObj);
         }
+        */
     }
 });
 });

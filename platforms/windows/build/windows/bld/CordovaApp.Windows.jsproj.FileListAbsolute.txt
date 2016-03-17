@@ -1,6 +1,8 @@
 C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\debug\anycpu\win8.1\resources.pri
 C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\debug\anycpu\win8.1\AppxManifest.xml
 C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\debug\anycpu\win8.1\CordovaApp.Windows.build.appxrecipe
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\debug\anycpu\win8.1\ReverseRuntimeComponent.winmd
+C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\CordovaApp.Windows.jsprojResolveAssemblyReference.cache
 C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\priconfig.xml
 C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\priconfig.xml.intermediate
 C:\Users\timro_000\Documents\cordova\workspace\reverseTest\platforms\windows\build\windows\bld\layout.resfiles
